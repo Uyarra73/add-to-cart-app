@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # co57f43edac6eb5ce56668fea
 
 Quick start:
@@ -19,3 +20,6 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+=======
+# add-to-cart-app
+>>>>>>> origin/main
